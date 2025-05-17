@@ -1,12 +1,4 @@
 
-Here’s a vibrant, visually engaging README template for your Vehicle Recognition project, using colors and bold text.  
-Note: Standard Markdown (used by GitHub READMEs) does **not support custom fonts, colors, or animations**.  
-However, you can make it visually appealing with emojis, badges, GIFs, and good layout.  
-If you want true color and animation, you’d need to use HTML in the README (limited support), or link to GIFs for animation.
-
-Below is a README.md template using best practices for color/emphasis and including animation via a GIF placeholder.
-
----
 
 ```markdown
 <h1 align="center">
@@ -60,6 +52,11 @@ python main.py --input your_video.mp4
 
 ---
 
+## **Tech-Stack**
+
+🛠️ Tech Stack
+<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/Pillow-8C1A4B?style=for-the-badge&logo=pillow&logoColor=white" alt="Pillow" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" /> <img src="https://img.shields.io/badge/YOLOv4-000000?style=for-the-badge&logo=github&logoColor=white" alt="YOLOv4" /> </p>
+
 ## 📁 **Project Structure**
 
 ```
@@ -94,16 +91,3 @@ This project is licensed under the MIT License.
 
 ---
 
-**How to add color and animation:**
-- For colors, HTML `<span style="color:...">` can be used in GitHub Markdown, but support is inconsistent.  
-- For animation, use GIFs or SVGs like [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg).
-- Emojis and badges add visual flair and are universally supported.
-
-Let me know if you want a version with more HTML or additional customizations!
-
-
-
-
-
-🛠️ Tech Stack
-<p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/Pillow-8C1A4B?style=for-the-badge&logo=pillow&logoColor=white" alt="Pillow" /> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" /> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" /> <img src="https://img.shields.io/badge/YOLOv4-000000?style=for-the-badge&logo=github&logoColor=white" alt="YOLOv4" /> </p>
